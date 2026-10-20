@@ -4,10 +4,12 @@ title = Portefeuille de Poche
 package.name = portefeuille
 package.domain = org.wallet
 
+source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json
-source.include_dir = .
 source.exclude_exts = spec
 source.exclude_dirs = tests, bin, venv
+
+version = 1.0
 
 requirements = python3,kivy
 
