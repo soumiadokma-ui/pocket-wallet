@@ -23,7 +23,7 @@ source.exclude_dirs = tests, bin, venv
 
 # (list) Application requirements
 # تأكد من إضافة المكتبات التي يعتمد عليها تطبيقك هنا
-requirements = python3,kivy,jsonlines
+requirements = python3,kivy
 
 # (str) Supported orientations
 orientation = portrait
